@@ -1,0 +1,91 @@
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Marina
+    last_name: Martín
+    
+    # Define yourself in 4-5 words
+    motto: I am creative and friendly
+    
+    # Focus
+    focus: 
+    
+    # You have 1 paragraph to make a great impression, summarize your career
+  
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email: marinamartinbarranco@gmail.com #optional
+    phone: #optional
+    website: #optional
+    linkedin:  #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: marinamb19
+  
+
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: English
+        level: B1
+
+      - idiom: Spanish
+        level: Native
+
+    # Interests or hobbies
+    interests:
+      - item: Juegos de mesa
+
+      - item: pintar
+
+      - item: Cooking
+
+# Your previous education
+education:
+    - degree: Educacion infantil
+      university: CESUR
+      # optional
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+    - degree: Educacion infantil
+      university: CESUR
+      # optional
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+# Your previous job experiences or volunteer
+experiences:
+    - role: Seño en una escuela infantil
+      time: 2023 - presente
+      company: escuela infantil la casa azul el pinillo
+      # optional
+      
+      
+   
+    
+
